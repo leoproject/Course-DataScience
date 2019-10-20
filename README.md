@@ -4,14 +4,14 @@ This course stay in [Ivanovitch's github](https://github.com/ivanovitchm/datasci
 
 ![](studying.gif)
 
-~~~Lesson 1
-This chapter about resume of field Data Science;
+1. **Lesson 1** - This chapter about resume of field Data Science;
 
 > "The mind that opens up to a new idea never returns to its original size. " - **Albert Einstein** 
-~~~
 
-~~~Lesson 2
-Notebook in python with basic exercises - Doing!
-~~~
+2. **Lesson 2** - This chapter has notebook in python with basic exercises - Done!
+
+> "Pleasure in the job puts perfection in the work." - **Aristotle**
+
+3. **Lesson 3** - I am studying now, but python notebook about Pandas ....
 
 
