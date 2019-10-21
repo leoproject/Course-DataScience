@@ -12,6 +12,6 @@ This course stay in [Ivanovitch's github](https://github.com/ivanovitchm/datasci
 
 > "Pleasure in the job puts perfection in the work." - **Aristotle**
 
-3. **Lesson 3** - I am studying now, but python notebook about Pandas ....
+3. **Lesson 3** - I am studying now, this chapter is about introduction Pandas ....
 
 
