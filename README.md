@@ -12,6 +12,7 @@ This course stay in [Ivanovitch's github](https://github.com/ivanovitchm/datasci
 
 > "Pleasure in the job puts perfection in the work." - **Aristotle**
 
-3. **Lesson 3** - I am studying now, this chapter is about introduction Pandas ....
+3. **Lesson 3** - This Chapter I learned about introduction Pandas, but I need more to study about it!
 
+> "The learning is to fail constant until that you trust yourself. No 'cause you are the best but because you are try!" ***Someone**
 
