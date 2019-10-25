@@ -16,3 +16,5 @@ This course stay in [Ivanovitch's github](https://github.com/ivanovitchm/datasci
 
 > "The learning is to fail constant until that you trust yourself. No 'cause you are the best but because you are try!" ***Someone**
 
+4. **Lesson 4** - This Chapter I learning about more Pandas .....
+
