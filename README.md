@@ -14,7 +14,10 @@ This course stay in [Ivanovitch's github](https://github.com/ivanovitchm/datasci
 
 3. **Lesson 3** - This Chapter I learned about introduction Pandas, but I need more to study about it!
 
-> "The learning is to fail constant until that you trust yourself. No 'cause you are the best but because you are try!" ***Someone**
+> "The learning is to fail constant until that you trust yourself. No 'cause you are the best but because you are try!" **Someone**
 
-4. **Lesson 4** - This Chapter I learning about more Pandas .....
+4. **Lesson 4** - This Chapter about Exploring Data with Pandas. Now, I am Data Science and I will be rich in this year.
+> "Bazingaaaaaaaaaaaaaaaaaaaaaaa!!!!!!" **Phd Sheldon Cooper** 
+
+5. **Lesson 5** - This Chapter about Data Cleaning Basic , it's funny this chapter man ....
 
