@@ -20,4 +20,5 @@ This course stay in [Ivanovitch's github](https://github.com/ivanovitchm/datasci
 > "Bazingaaaaaaaaaaaaaaaaaaaaaaa!!!!!!" **Phd Sheldon Cooper** 
 
 5. **Lesson 5** - This Chapter about Data Cleaning Basic , it's funny this chapter man ....
+> "I hear and I forget, I see and I remember, I do and I understand" **Someone**
 
