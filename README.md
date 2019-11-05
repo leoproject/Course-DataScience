@@ -27,3 +27,4 @@ This course stay in [Ivanovitch's github](https://github.com/ivanovitchm/datasci
 > "I hear and I forget, I see and I remember, I do and I understand" 
 > **Someone**
 
+7. **Lesson 7** - This Chapter about Data Aggregation, I will learning aggregation datasets for analysis... 
