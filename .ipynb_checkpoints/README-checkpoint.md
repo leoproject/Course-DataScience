@@ -37,7 +37,3 @@ I am studying Data Science by the course of Professor Ivanovitch Silva at UFRN. 
 >
 >
 
-
-8. **Lesson 8** - This Chapter about Combination Data with Pandas, I began to read the slides only this lesson...
->
->
