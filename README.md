@@ -33,7 +33,9 @@ I am studying Data Science by the course of Professor Ivanovitch Silva at UFRN. 
 > "The whole is greater than the sum of its parts"
 > **Aristotle**
 
-8. **Lesson 8** - This Chapter about Combination Data with Pandas, I began to read the slides only this lesson...
->
->
+8. **Lesson 8** - This Chapter about Combination Data with Pandas. Interessent chapter !!!
+> "Gentlemen, might I remind you, my odds of success  dramatically improve with each attempt"
+> **John Nash**
 
+9. **Lesson 9** - This Chapter about Transforming Data with Pandas, I am studying it now....
+> 
