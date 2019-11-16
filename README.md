@@ -37,5 +37,8 @@ I am studying Data Science by the course of Professor Ivanovitch Silva at UFRN. 
 > "Gentlemen, might I remind you, my odds of success  dramatically improve with each attempt"
 > **John Nash**
 
-9. **Lesson 9** - This Chapter about Transforming Data with Pandas, I am studying it now....
-> 
+9. **Lesson 9** - This Chapter about Transforming Data with Pandas, I finished.
+> "How often have I said that when you have excluded the impossible whatever remains, however improbable, must be the truth."
+>**Sherlock Holmes**
+
+10. **Lesson 10** - This Chapter about Work with String in Pandas, I will go to begin this lesson.
