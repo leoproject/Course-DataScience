@@ -41,4 +41,12 @@ I am studying Data Science by the course of Professor Ivanovitch Silva at UFRN. 
 > "How often have I said that when you have excluded the impossible whatever remains, however improbable, must be the truth."
 >**Sherlock Holmes**
 
-10. **Lesson 10** - This Chapter about Work with String in Pandas, I will go to begin this lesson.
+10. **Lesson 10** - This Chapter about Work with String in Pandas, this lesson is different than others.
+> "When we do fantasy, we must not lose sight of reality."
+>**Walt Disney**
+
+11. **Lesson 11** - THis Chapter about Data Visualization using the popular Bokeh library in Python. 
+>"It is only shallow people who do not judge by appearances."
+>**Oscar Wilde**
+
+12. **Lesson 12** - This Chapter about Storytelling from geographic data. I am studying this now...
