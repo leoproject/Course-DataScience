@@ -49,4 +49,12 @@ I am studying Data Science by the course of Professor Ivanovitch Silva at UFRN. 
 >"It is only shallow people who do not judge by appearances."
 >**Oscar Wilde**
 
-12. **Lesson 12** - This Chapter about Storytelling from geographic data. I am studying this now...
+12. **Lesson 12** - This Chapter about Storytelling from geographic data. It's cool!
+>"I keep trying"
+>**Somebody**
+
+13. **Lesson 13** - This Chapter about Data driven maps using Folium; I need to use more this tool because it's is great!
+>“Try not to become a man of success, but rather try to become a man of value.”
+>**Albert Einstein**
+
+14. **Lesson 14** - This Chapter about API and Choropleth Maps.

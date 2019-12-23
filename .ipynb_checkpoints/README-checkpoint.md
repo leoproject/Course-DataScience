@@ -37,5 +37,24 @@ I am studying Data Science by the course of Professor Ivanovitch Silva at UFRN. 
 > "Gentlemen, might I remind you, my odds of success  dramatically improve with each attempt"
 > **John Nash**
 
-9. **Lesson 9** - This Chapter about Transforming Data with Pandas, I am studying it now....
-> 
+9. **Lesson 9** - This Chapter about Transforming Data with Pandas, I finished.
+> "How often have I said that when you have excluded the impossible whatever remains, however improbable, must be the truth."
+>**Sherlock Holmes**
+
+10. **Lesson 10** - This Chapter about Work with String in Pandas, this lesson is different than others.
+> "When we do fantasy, we must not lose sight of reality."
+>**Walt Disney**
+
+11. **Lesson 11** - THis Chapter about Data Visualization using the popular Bokeh library in Python. 
+>"It is only shallow people who do not judge by appearances."
+>**Oscar Wilde**
+
+12. **Lesson 12** - This Chapter about Storytelling from geographic data. It's cool!
+>"I keep trying"
+>**Somebody**
+
+13. **Lesson 13** - This Chapter about Data driven maps using Folium; I need to use more this tool because it's is great!
+>“Try not to become a man of success, but rather try to become a man of value.”
+>**Albert Einstein**
+
+14. **Lesson 14** - This Chapter about API and Choropleth Maps.
